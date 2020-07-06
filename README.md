@@ -2,7 +2,7 @@
 
 install requirements.txt
 create super user for django
-now you can run aplication
+now you can run application
 
 ##### The application deploy from Pythonanywhere
 
