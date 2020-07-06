@@ -8,5 +8,5 @@ now you can run aplication
 
 Click here: [[App in pythonanywhere]][1]
 [1]: http://pampaninitech.pythonanywhere.com/ "Django Rest app"
-You can use username `admin`
-						password `1234`
+
+You can use username `admin` password `1234`
