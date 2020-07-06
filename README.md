@@ -6,7 +6,6 @@ now you can run application
 
 ##### The application deploy from Pythonanywhere
 
-Click here: [[App in pythonanywhere]][1]
-[1]: http://pampaninitech.pythonanywhere.com/ "Django Rest app"
+http://pampaninitech.pythonanywhere.com
 
 You can use username `admin` password `1234`
